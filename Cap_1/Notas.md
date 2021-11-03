@@ -1,4 +1,5 @@
 # Penetration Testing with Kali Linux: General Course Information
+*(Páginas 17-32)*
 
 PWK (Penetration With Kali Linux) es un curso creado por Offensive Security para administradores de red y de sistemas, así como profesionales de seguridad. Ayuda a comprender los ataques y tecnicas usadas por agentes maliciosos.
 
@@ -55,6 +56,19 @@ Una vez se penetra en la frontera del objetivo se recomienda reiniciar el ciclo,
 Posteriormente se busca garantizar el acceso al sistema, usualmente mediante puertas traseras o RATs. Finalmente se deben eliminar las huellas y cualquier rastro que hayamos podido dejar.
 
 &nbsp;
+
+# Informe de pentesting
+
+El informe o reporte es parte de cualquier pentesting, y por tanto del examen. No hay un método absoluto para su creación sin embargo se puede echar un ojo a este [Sample penetration testing report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf). 
+
+&nbsp;
+
+# El examen
+
+El examen que simula un entrono de red de maquinas vulnerables en una VPN privada, tiene como requisito un puntaje de 70 puntos que se pueden ganar al comprometer parcial o completamente las maquinas. Dicho entorno esta disponible por alrededor de 24 horas y luego otras 24 horas para el informe y documentación. Metasploit se puede usar con [algunas limitaciones](https://help.offensive-security.com/hc/en-us/articles/360040165632#metasploit-restrictions).
+
+&nbsp;
+
 
 ### Nota:
 > **Megacorpone.com** y **Sandbox.local** son dominios de compañías ficticias creadas por Offensive Security con el objetivo de ilustrar los conceptos del curso. Megacorpone es accesible desde fuera de la VPN de los laboratorios y sandbox.local es un dominio interno ficticio.
