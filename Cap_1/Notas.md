@@ -23,5 +23,27 @@ El intento para el examen tiene 120 días de caducidad despues de terminado el t
 
 &nbsp;
 
+## Consejos de estudio:
 
+&nbsp;
 > Tómese su tiempo estudiando, no corra. No importa que tenga que gastar tiempo extra en algunos conceptos más difíciles.
+
+&nbsp;
+
+> Realice todos los ejercicios de cada módulo antes de continuar con el siguiente. Algunos requieren más habilidades que otros, sea persistente con los ejercicios más difíciles.
+
+&nbsp;
+
+> Una vez termine el material de estudio puede iniciar con los laboratorios. Aplique lo aprendido, realice una busqueda de información en toda la red, utilice la información adquirida para comprometer otras máquinas. Si está atascado considere ir al foro de estudiantes.
+
+&nbsp;
+
+# Acerca de las pruebas de penetración
+
+Un pentesting es un ciclo continuo de investigación y ataque a un objetivo. El ataque debe ser estructurado, calculado y de ser posible verificado en un laboratorio antes de ser implementado.
+
+En la siguiente imagen se observa dicho proceso:
+
+![adsfdf dfdf][diagram]
+
+[diagram]: ./imagenes/PTM_diagram.png "Metodología de una prueba de penetración"
