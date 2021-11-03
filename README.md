@@ -1,2 +1,12 @@
-# PWK-OSCP-Study
-Esto fue editado en HackMD. HackMD puede pushear directamente a este repositorio hasta 20 veces por mes en la version Free. Asi que es mejor trabajar la version HackMD en línea para la parte colaborativa https://hackmd.io/team/PWK-OSCP-Study
+# NOTAS DE ESTUDIO PWK-OSCP
+
+En este repositorio encontrará algunas notas de estudio realizadas durante nuestra travesia de certificarnos como OSCP.
+
+Encontrará resumenes, explicaciones, scripts, consejos, etc...
+
+
+Creadores:
+
+- [@Alejosebasp](https://twitter.com/alejosebasp)
+
+- [@FredyAndresRo](https://twitter.com/FredyAndresRo)
