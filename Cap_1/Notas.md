@@ -19,5 +19,4 @@ Se puede comunicar con los administradores (quienes han realizado y pasado el cu
 
 El intento para el examen tiene 120 días de caducidad despues de terminado el tiempo de laboratorio adquirido, si expira puede comprar un nuevo intento con 120 días adicionales. Se puede agendar la presentación del examen con un enlace enviado al correo o desde el panel de control de PWK.
 
-<center> <a href="https://help.offensive-security.com/hc/en-us/categories/360002666252-General-Frequently-Asked-Questions-FAQ-">hola</a>
-</center>
+### [Preguntas Frecuentes](https://help.offensive-security.com/hc/en-us/categories/360002666252-General-Frequently-Asked-Questions-FAQ-)
