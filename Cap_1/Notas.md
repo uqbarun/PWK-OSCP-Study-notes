@@ -47,3 +47,13 @@ En la siguiente imagen se observa dicho proceso:
 ![adsfdf dfdf][diagram]
 
 [diagram]: ./imagenes/PTM_diagram.png "Metodología de una prueba de penetración"
+
+Entre más información se obtenga de un objetivo mayor probabilidad de exito tendrá a la hora de intentar comprometer el sistema, se recomienda dedicar un tiempo considerable a esta fase.
+
+Una vez se penetra en la frontera del objetivo se recomienda reiniciar el ciclo, así por ejemplo, se puede obtener más información de la red interna, para luego atacar otros dispositivos y penetrar la red de una forma más profunda.
+
+Posteriormente se busca garantizar el acceso al sistema, usualmente mediante puertas traseras o RATs. Finalmente se deben eliminar las huellas y cualquier rastro que hayamos podido dejar.
+
+&nbsp;
+
+> **Megacorpone.com** y **Sandbox.local** son dominios de compañías ficticias creadas por Offensive Security con el objetivo de ilustrar los conceptos del curso. Megacorpone es accesible desde fuera de la VPN de los laboratorios y sandbox.local es un dominio interno ficticio.
