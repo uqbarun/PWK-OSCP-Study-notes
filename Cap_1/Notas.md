@@ -56,4 +56,5 @@ Posteriormente se busca garantizar el acceso al sistema, usualmente mediante pue
 
 &nbsp;
 
+### Nota:
 > **Megacorpone.com** y **Sandbox.local** son dominios de compañías ficticias creadas por Offensive Security con el objetivo de ilustrar los conceptos del curso. Megacorpone es accesible desde fuera de la VPN de los laboratorios y sandbox.local es un dominio interno ficticio.
