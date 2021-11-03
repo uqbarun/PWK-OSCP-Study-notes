@@ -21,7 +21,7 @@ El intento para el examen tiene 120 días de caducidad despues de terminado el t
 
 ### [Preguntas Frecuentes](https://help.offensive-security.com/hc/en-us/categories/360002666252-General-Frequently-Asked-Questions-FAQ-)
 
+&nbsp;
 
-Tómese su tiempo estudiando, no corra. No importa que tenga que gastar tiempo extra en algunos conceptos más difíciles.
-***
 
+> Tómese su tiempo estudiando, no corra. No importa que tenga que gastar tiempo extra en algunos conceptos más difíciles.
