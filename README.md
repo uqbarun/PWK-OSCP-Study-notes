@@ -46,6 +46,10 @@ PEN-200 según el [sistema de designación de cursos de OffSec](https://www.offe
 * Resolucón creativa de problemas y pensamiento lateral.
 
 
+# leGAL 
+
+https://1minutebook.com/are-book-summaries-legal/
+
 
 # Creadores:
 
