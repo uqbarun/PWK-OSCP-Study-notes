@@ -53,22 +53,27 @@ Entre más información se obtenga de un objetivo mayor probabilidad de exito te
 
 Una vez se penetra en la frontera del objetivo se recomienda reiniciar el ciclo, así por ejemplo, se puede obtener más información de la red interna, para luego atacar otros dispositivos y penetrar la red de una forma más profunda.
 
-Posteriormente se busca garantizar el acceso al sistema, usualmente mediante puertas traseras o RATs. Finalmente se deben eliminar las huellas y cualquier rastro que hayamos podido dejar.
+Posteriormente se busca garantizar el acceso al sistema, usualmente mediante puertas traseras o RATs. Finalmente se deben eliminar las huellas y cualquier rastro que hayamos podido dejar. 
+
+&nbsp;
+
+## Laboratorios PWK
+
+Los labs de PWK proveen un ambiente con multiples máquinas vulnerables que permiten practicar las técnicas dadas en el material del curso.
+
+Cada máquina contiene un archivo **proof.txt** con la bandera y algunas también poseen un archivo **network-secret.txt** 
+
+### Nota:
+> **Megacorpone.com** y **Sandbox.local** son dominios de compañías ficticias creadas por Offensive Security con el objetivo de ilustrar los conceptos del curso. Megacorpone es accesible desde fuera de la VPN de los laboratorios y sandbox.local es un dominio interno ficticio.
 
 &nbsp;
 
 # Informe de pentesting
 
-El informe o reporte es parte de cualquier pentesting, y por tanto del examen. No hay un método absoluto para su creación sin embargo se puede echar un ojo a este [Sample penetration testing report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf). 
+El informe o reporte es parte de cualquier pentesting, y por tanto del examen. No hay un método absoluto para su creación sin embargo se puede echar un ojo a este [Sample penetration testing report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf).
 
 &nbsp;
 
 # El examen
 
 El examen que simula un entrono de red de maquinas vulnerables en una VPN privada, tiene como requisito un puntaje de 70 puntos que se pueden ganar al comprometer parcial o completamente las maquinas. Dicho entorno esta disponible por alrededor de 24 horas y luego otras 24 horas para el informe y documentación. Metasploit se puede usar con [algunas limitaciones](https://help.offensive-security.com/hc/en-us/articles/360040165632#metasploit-restrictions).
-
-&nbsp;
-
-
-### Nota:
-> **Megacorpone.com** y **Sandbox.local** son dominios de compañías ficticias creadas por Offensive Security con el objetivo de ilustrar los conceptos del curso. Megacorpone es accesible desde fuera de la VPN de los laboratorios y sandbox.local es un dominio interno ficticio.
