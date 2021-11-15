@@ -1,4 +1,4 @@
-# Penetration Testing with Kali Linux: General Course Information
+# Capítulo 1: Penetration Testing with Kali Linux: General Course Information
 *(Páginas 17-32)*
 
 PWK (Penetration With Kali Linux) es un curso creado por Offensive Security para administradores de red y de sistemas, así como profesionales de seguridad. Ayuda a comprender los ataques y tecnicas usadas por agentes maliciosos.
@@ -10,7 +10,7 @@ PWK (Penetration With Kali Linux) es un curso creado por Offensive Security para
 - Acceso a la red VPN del laboratorio (acceso limitado de acuerdo con el plan comprado)
 - Credenciales para el foro de estudiantes
 - Soporte on line
-- Una oportunidad para presentar el examen OSCP
+- Una oportunidad para presentar el examen OSCP*
 
 Se recomienda estudiar con el PDF y complementar con los videos, hay cosas que están en uno y no en los otros y viceversa.
 
@@ -19,6 +19,8 @@ Al correo se envían las credenciales para acceder a la VPN, así podrá acceder
 Se puede comunicar con los administradores (quienes han realizado y pasado el curso) para recibir soporte técnico, clarificar conceptos y material del curso, también pueden dar una que otra pista para resolver algún laboratorio que se le dificulte.
 
 El intento para el examen tiene 120 días de caducidad despues de terminado el tiempo de laboratorio adquirido, si expira puede comprar un nuevo intento con 120 días adicionales. Se puede agendar la presentación del examen con un enlace enviado al correo o desde el panel de control de PWK.
+
+*Para presentar el examen OSCP es inevitable realizar el curso PEN-200 de uno de los paquetes de OffSec 
 
 ### [Preguntas Frecuentes](https://help.offensive-security.com/hc/en-us/categories/360002666252-General-Frequently-Asked-Questions-FAQ-)
 
@@ -70,7 +72,19 @@ Cada máquina contiene un archivo **proof.txt** con la bandera y algunas tambié
 
 # Informe de pentesting
 
-El informe o reporte es parte de cualquier pentesting, y por tanto del examen. No hay un método absoluto para su creación sin embargo se puede echar un ojo a este [Sample penetration testing report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf).
+El informe o reporte es parte de cualquier pentesting, y por tanto del examen. No hay un método absoluto para su creación, sin embargo se puede echar un ojo a este ejemplo: [Sample penetration testing report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf). Estas son algunas consideraciones:
+
+1. **Considere el Objetivo:** Tener en cuenta que se está evaluando y que se pretende demostrar de manera eficiente y sin lucirse. Se aconseja escribir un esquema o boceto.
+
+2. **Audiencia:** El informe lo leerán tanto efecutivos y gerentes como personal técnico experto, por tanto es necesario un *resumen ejecutivo* de no mas de dos páginas antes de desplegar el arsenal y jerga técnica.
+ 
+3. **Contenido:** Piense en qué incluir y qué no. No rellene el informe con contenido que su audiencia no querrá leer. No son necesarias las salidas completas de utilidades/herramientas. Las capturas de pantallas son necesarias si se pretende demostrar algo. Si necesita contenido extenso que no es de interés para toda la audiencia, lo puede dejar como anexo. Finalmente, tenga claro qué información le sirve para reforzar el objetivo del informe, si no, no la incluya.
+
+4. **Presentación**: La presentación es tan importante como el contenido. Esfuercese por hacerlo de forma profesional y redactar de forma simple, coherente, con buena ortografía y fácil de comprender. Recuerde que para el examen de la OSCP deberá escribir el reporte en inglés.
+
+5. **Informes PWK/OSCP**: Si bien no es obligatorio realizar los informes de los laboratorios del curso PWK, sí se recomienda para ir prácticando. Por otro lado, el informe de la certificación OSCP es obligatorio y deberá ser enviado 24 horas después de completar el examen. El informe debe incluir un informe ejecutivo y un resumen detallado de las máquinas comprometidas.
+
+6. **Apuntes**:
 
 &nbsp;
 
