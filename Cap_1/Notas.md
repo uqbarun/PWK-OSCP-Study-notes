@@ -3,7 +3,9 @@
 
 PWK (Penetration With Kali Linux) es un curso creado por Offensive Security para administradores de red y de sistemas, así como profesionales de seguridad. Ayuda a comprender los ataques y tecnicas usadas por agentes maliciosos.
 
-## El curso de PWK incluye:
+## Acerca del curso PWK:
+
+El curso incluye: 
 
 - Guía de laboratorios en PDF
 - Video cursos
@@ -41,7 +43,7 @@ El intento para el examen tiene 120 días de caducidad despues de terminado el t
 
 &nbsp;
 
-# Acerca de las pruebas de penetración
+## Acerca de las pruebas de penetración
 
 Un pentesting es un ciclo continuo de investigación y ataque a un objetivo. El ataque debe ser estructurado, calculado y de ser posible verificado en un laboratorio antes de ser implementado.
 
@@ -61,9 +63,12 @@ Posteriormente se busca garantizar el acceso al sistema, usualmente mediante pue
 
 ## Laboratorios PWK
 
-Los labs de PWK proveen un ambiente con multiples máquinas vulnerables que permiten practicar las técnicas dadas en el material del curso.
+Los labs de PWK proveen un ambiente segregado y hostil (por lo que no se reomienda exponer su máquina y datos personales) con multiples máquinas vulnerables que permiten practicar las técnicas enseñadas en el material del curso.
 
-Cada máquina contiene un archivo **proof.txt** con la bandera y algunas también poseen un archivo **network-secret.txt** 
+Cada máquina contiene un archivo **proof.txt** con la bandera y algunas también poseen un archivo **network-secret.txt**. Tambien poseen un *revert* que permite devolver la máquina a su estado original, el cual se recomienda realizar antes y despues del pentest. Usted posee 12 *reverts* cada 24 horas.
+
+OffSec ofrece una [imagen (VMWare y Virtualbox preconfigurada)](https://www.kali.org/get-kali/#kali-virtual-machines) de Kali Linux que viene acompañada con soporte oficial de OffSec.
+
 
 ### Nota:
 > **Megacorpone.com** y **Sandbox.local** son dominios de compañías ficticias creadas por Offensive Security con el objetivo de ilustrar los conceptos del curso. Megacorpone es accesible desde fuera de la VPN de los laboratorios y sandbox.local es un dominio interno ficticio.
@@ -84,10 +89,10 @@ El informe o reporte es parte de cualquier pentesting, y por tanto del examen. N
 
 5. **Informes PWK/OSCP**: Si bien no es obligatorio realizar los informes de los laboratorios del curso PWK, sí se recomienda para ir prácticando. Por otro lado, el informe de la certificación OSCP es obligatorio y deberá ser enviado 24 horas después de completar el examen. El informe debe incluir un informe ejecutivo y un resumen detallado de las máquinas comprometidas.
 
-6. **Apuntes**:
+6. **Apuntes**: Las notas son esenciales tanto para el curso como en cualquier pentesting, se recomienda documentar **todo** lo que le parezca útil y ser bastante organizado, le servirá para la fase de postexplotación y el informe. Debe tener en cuenta dónde se almacena (local o remota), si hay información sensible debería cifrarla y no solo capture las salidas, un pantallazo vale más que mil palabras. Para organizar la documentacion existen varias herramientas y métodos, puede utilizar OneNote, CherryTree o Joplin, guardar las salidas de la termminal en archivos (con `tee` o `>`) o configurar loggin de las salidas de consola (con *Script* o *Terminator*), lo importante es que pueda organizar mental y digitalmente toda la información obtenida en el pentest. Se recomienda como regla general respaldar regularmente no solo la documentación sino tambien archivos importantes en lugares seguros y privados.
 
 &nbsp;
 
-# El examen
+## El examen OSCP
 
-El examen que simula un entrono de red de maquinas vulnerables en una VPN privada, tiene como requisito un puntaje de 70 puntos que se pueden ganar al comprometer parcial o completamente las maquinas. Dicho entorno esta disponible por alrededor de 24 horas y luego otras 24 horas para el informe y documentación. Metasploit se puede usar con [algunas limitaciones](https://help.offensive-security.com/hc/en-us/articles/360040165632#metasploit-restrictions).
+El examen que simula un entorno de red de maquinas vulnerables en una VPN privada, se aprueba con un puntaje mínimo de 70 puntos que se pueden ganar al comprometer parcial o completamente dichas maquinas. El entorno esta disponible por alrededor de 24 horas y luego otras 24 horas para el informe y documentación. Metasploit se puede usar con [algunas limitaciones](https://help.offensive-security.com/hc/en-us/articles/360040165632#metasploit-restrictions).
